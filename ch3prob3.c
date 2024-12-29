@@ -23,6 +23,7 @@ int main()
     {
         tax = 250000 * 0.05 + 500000 * 0.2 + (income - 1000000) * 0.3;
     }
+    // showing your income 
     printf("your income tax: %f", tax);
     return 0;
 }
